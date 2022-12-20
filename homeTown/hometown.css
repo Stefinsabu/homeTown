@@ -1,0 +1,107 @@
+body{
+    
+    text-align: center;
+    
+
+}
+
+
+
+.main{
+    width: 720px;
+    height: 1115px;
+    
+    margin: auto auto;
+    
+}
+.first-sent{
+    color: white;
+    text-shadow: 0px 0x 20px black;
+    background: skyblue;
+    border-radius: 15px;
+    
+} 
+
+
+.home-head{
+    width:720px;
+    height:300px;
+    background-image: url("images1/Sulthan bathery4.jpeg");
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+    justify-content: start;
+    align-items: center;
+}
+
+
+
+
+.home-mid{
+    width: 720px;
+    height: 369px;
+    background-color: #F1FAEE;
+    
+    
+}
+.places{
+    display: flex;
+    justify-content: space-around;
+    text-align:inline;
+}
+#temple-img{
+    width: 132px;
+    height: 117px;
+    border-radius:50%;
+}
+#edakkal-img{
+    width:126px;
+    height: 117px;
+    border-radius:50%;
+
+
+}
+#chethalayam-img{
+    width: 132px;
+    height: 117px;
+    border-radius:50%;
+}
+.border-line{
+    border: 2px dotted blue;
+}
+#stefin-img{
+    width: 192px;
+    
+    
+}
+.end{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin-top: 100px;
+    
+    
+   
+    
+}
+.photo-guide{
+    background-color: #A8DADC;
+    border-radius:8px;
+    padding: auto auto;
+    border-bottom: 4px solid black;
+    display:flex;
+    justify-content: space-around;
+
+}
+.card{
+    width:492px;
+    
+}
+#stefin-img{
+    width: 192px;
+    height: 223px;
+}
+#su{
+    padding: 5px 2px;
+}
